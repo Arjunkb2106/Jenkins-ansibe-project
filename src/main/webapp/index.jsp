@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Arjun first project</title>
+    <title>Namba jeychitom mara</title>
 
 
     <!-- Custom styles for this template -->
