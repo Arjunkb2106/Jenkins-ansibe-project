@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Namba jeychitom mara</title>
+    <title>Namba thirumba jeychitom mara</title>
 
 
     <!-- Custom styles for this template -->
