@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Namba thirumba jeychitom mara</title>
+    <title>Mass katurae Arjuney</title>
 
 
     <!-- Custom styles for this template -->
